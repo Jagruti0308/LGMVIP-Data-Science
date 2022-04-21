@@ -1,13 +1,13 @@
 
 LGM(VIP) : Data Science Internship
 
-Beginner Level Task 1 : Iris Flower Classification
+Task 1 : Iris Flower Classification
 
-Level Task 2 : 
+Task 2 : Exploratary Data Analysis on Dataset -Terrorism
 
-Level Task 3 : 
+Task 3 : Prediction Using Decision Tree Algorithm
 
-Level Task 4 : 
+Task 4 : Image to Pencil Sketch with Python
 
 Author : Jagruti Pawar
 
